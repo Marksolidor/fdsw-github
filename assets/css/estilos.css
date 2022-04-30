@@ -38,6 +38,12 @@ nav {
   color: #373a3c;
 }
 
+/* Contacto */
+
+footer {
+  background-color: #FF6363;
+}
+
 @media (max-width: 768px) {
   #Contacto form label {
     font-weight: 400;
